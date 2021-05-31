@@ -6,7 +6,7 @@ import StoreCards from './components/StoreCards';
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.header_text}>PATIKASTORE</Text>
+      <Text style={styles.header_text}>PATIKASTOR</Text>
       <TextInput style={styles.search} placeholder="Ara..." />
       <FlatList
         horizontal={false}
