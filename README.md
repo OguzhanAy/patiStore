@@ -1,0 +1,2 @@
+# patiStore
+React Native project
